@@ -74,10 +74,10 @@ You can explore my repositories to see my work.
 
 Feel free to connect with me:
 
-🌐 Portfolio : https://portfoliowebsite060.netlify.app/ 
+🌐 Portfolio : https://portfoliowebsite060.netlify.app/
 🚀 MY App : https://play.google.com/store/apps/details?id=com.niraant.app
-💻 GitHub : https://github.com/Parth-Makwana06  
-🔗 LinkedIn : https://www.linkedin.com/in/makwana-parth-061667292/  
+💻 GitHub : https://github.com/Parth-Makwana06
+🔗 LinkedIn : https://www.linkedin.com/in/makwana-parth-061667292/
 
 ---
 
